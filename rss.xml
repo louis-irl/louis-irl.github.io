@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Louis Weddall's Blog</title>
+<description>My personal blog where I post things I find interesting.</description>
+<language>en-us</language>
+<link>http://louisweddall.com/rss.xml</link>
+<atom:link href="http://louisweddall.com/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Test Post</title>
+<guid>https://louisweddall.com/index.html#test-post</guid>
+<pubDate>Mon, 18 Jan 2021 23:22:31 -0600</pubDate>
+<description><![CDATA[
+<p>This is a test of my new blog system.  I'm using Luke Smith's lb, which you can check out <a href="https://github.com/LukeSmithxyz/lb">here</a>.  I've only been messing with it a bit, so hopefully this ends up working.  If you're reading this, then it did.  Yay!</p>
+]]></description>
+</item>
+
+
+</channel>
+</rss>
